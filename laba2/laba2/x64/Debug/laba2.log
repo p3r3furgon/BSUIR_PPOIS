@@ -1,0 +1,7 @@
+﻿  Preloading.cpp
+  Routes.cpp
+D:\bsuir\PPOvIS\lb2\laba2\Routes.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Trains.cpp
+  Generating Code...
+D:\bsuir\PPOvIS\lb2\laba2\Trains.cpp(199): warning C4715: 'Train::ShowStatus': not all control paths return a value
+  laba2.vcxproj -> D:\bsuir\PPOvIS\lb2\laba2\x64\Debug\laba2.exe

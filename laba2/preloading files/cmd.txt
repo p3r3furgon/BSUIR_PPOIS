@@ -1,0 +1,1 @@
+start laba2.exe "D:\\bsuir\\PPOvIS\\laba2\\preloading files\\railway map.txt" "D:\\bsuir\\PPOvIS\\laba2\\preloading files\\stations.txt" "D:\\bsuir\\PPOvIS\\laba2\\preloading files\\routes.txt" "D:\\bsuir\\PPOvIS\\laba2\\preloading files\\trains.txt"

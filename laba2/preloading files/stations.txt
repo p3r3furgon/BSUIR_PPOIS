@@ -1,0 +1,6 @@
+Passenger station1 Loading
+Mixed station2 Unloading
+Freight station3 TemporaryStoping
+Passenger station4 Loading
+Mixed station5 TemporaryStoping
+Freight station6 Transit
