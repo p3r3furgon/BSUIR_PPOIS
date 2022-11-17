@@ -524,11 +524,19 @@ public:
 					break;
 				}
 			}
-			for (auto edge : edges)
+			/*for (auto edge : edges)
 			{
 				if (edge.toID == nodeID || edge.fromID == nodeID)
 				{
 					remove_edge(edge.edgeID);
+				}
+			}*/
+			for (int i = 0; i < edges.size(); i++)
+			{
+				if (edges[i].toID == nodeID || edges[i].fromID == nodeID)
+				{
+					remove_edge(edges[i].edgeID);
+					i--;
 				}
 			}
 			numberOfNodes--;

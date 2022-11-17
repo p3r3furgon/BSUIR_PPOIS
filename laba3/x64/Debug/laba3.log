@@ -1,1 +1,21 @@
-﻿  laba3.vcxproj -> D:\bsuir\PPOvIS\laba3\laba3\x64\Debug\laba3.exe
+﻿  laba3.cpp
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(373,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(328): message : while compiling class template member function 'oriented_graph<TYPE>::oriented_graph(std::string)'
+D:\bsuir\PPOvIS\laba3\laba3\laba3.cpp(10): message : see reference to function template instantiation 'oriented_graph<TYPE>::oriented_graph(std::string)' being compiled
+D:\bsuir\PPOvIS\laba3\laba3\laba3.cpp(10): message : see reference to class template instantiation 'oriented_graph<TYPE>' being compiled
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(239,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(210): message : while compiling class template member function 'T oriented_graph<T>::GetNodeInfoFromFile(int)'
+          with
+          [
+              T=TYPE
+          ]
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(362): message : see reference to function template instantiation 'T oriented_graph<T>::GetNodeInfoFromFile(int)' being compiled
+          with
+          [
+              T=TYPE
+          ]
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(198,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(197): message : while compiling class template member function 'void oriented_graph<TYPE>::AddEdge(int,int)'
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(356): message : see reference to function template instantiation 'void oriented_graph<TYPE>::AddEdge(int,int)' being compiled
+D:\bsuir\PPOvIS\laba3\laba3\OrientedGraph.h(241): warning C4715: 'oriented_graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetNodeInfoFromFile': not all control paths return a value
+  laba3.vcxproj -> D:\bsuir\PPOvIS\laba3\laba3\x64\Debug\laba3.exe
